@@ -1,5 +1,5 @@
 [versions]
-paper-api = "1.20.4-R0.1-SNAPSHOT"
+paper-api = "26.1.2.build.74-stable"
 citizens-api = "2.0.30-SNAPSHOT"
 worldguard-core = "7.0.7"
 worldedit-bukkit = "7.2.9"
