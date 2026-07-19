@@ -9,7 +9,7 @@ mythicdrops = "8.4.8"
 placeholder-api = "2.11.6"
 mythicmobs = "5.2.1"
 bstats-bukkit = "2.2.1"
-battlearena = "4.0.0-SNAPSHOT"
+battlearena = "4.0.4-SNAPSHOT"
 
 [libraries]
 paper-api = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper-api" }
